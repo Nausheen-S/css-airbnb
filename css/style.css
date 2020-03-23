@@ -1,3 +1,36 @@
+body{
+  background-color: #EDEFEC;;
+}
 h1 {
-  color: salmon;
+  color: #636266;
+  margin: 0 auto;
+  text-align: center;
+}
+h2 {
+  color: #636266;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: normal;
+}
+
+img{
+  padding : 100px 75px;
+  margin: 0 auto;
+  display: inline;
+}
+button {
+   display: block;
+   margin: 40px auto 80px;
+   padding: 10px 80px;
+   border-radius: 0;
+   border: 1px solid #BBB;
+   font-size: 14px;
+   font-weight: 500;
+   color: #5A5D62;
+ }
+
+
+.buttonalign{
+  margin: 0 auto;
+  text-align: center;
 }
